@@ -5,9 +5,9 @@
 
 ## 💫 Acerca de mi:
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
-✨ 👩 💻 Women in thech, nacionalidad Mexicana. 🌎<br><br>
+✨ 👩 💻 <strong>Women in thech, nacionalidad Mexicana.</strong> 🌎<br><br>
 
-Al sentir pasión por los desafios, el constante crecimiento como Senderista 💚 y mi previa experiencia como Ingeniera Industrial 📊🔧, donde desarrolle habilidades en analisis de datos, solucion de problemas y trabajo colaborativo, decidi impulsar mi pasión hacia la tecnologia e iniciar mi camino como Desarrolladora Web :star2:.<br><br>Ahora me encuentro en constante crecimiento dentro del Sector Tech, mi enfoque es desarrollar creativamente soluciones con impacto y valor agregado para todas las personas que interactúan día a día con la tecnología, buscando beneficiar a la sociedad e impulsando al medio ambiente. 🌿🌲
+Al sentir pasión por los desafios, el constante crecimiento como <strong>*Senderista*</strong> 💚 y mi previa experiencia como <strong>*Ingeniera Industrial*</strong> 📊🔧, donde desarrolle habilidades en analisis de datos, solucion de problemas y trabajo colaborativo, decidi impulsar mi pasión hacia la tecnologia e iniciar mi camino como <strong>*Desarrolladora Web*</strong> :star2:.<br><br>Ahora me encuentro en constante crecimiento dentro del Sector Tech, mi enfoque es desarrollar creativamente soluciones con impacto y valor agregado para todas las personas que interactúan día a día con la tecnología, buscando beneficiar a la sociedad e impulsando al medio ambiente. 🌿🌲
 
 - 👩‍💻 *Iniciandome como Front End Developer, emocionada por adquirir nuevos conocimientos.*
 
@@ -38,7 +38,5 @@ Animate a charlar, me encantaria participar en proyectos contigo, ademas de apre
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paolaotamendi&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=paolaotamendi&icon=9&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 <h2 align="center"> ¡Hola! 👋 Soy Paola Otamendi </h2>
-<h2 align="center"> Bienvenido a mi perfil, soy Front End Developer 👩‍💻:hibiscus:
+<h2 align="center"> Bienvenido a mi perfil, soy Front End Developer 👩‍💻
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PaolaOtamendi&label=Profile%20views&color=0e75b6&style=flat" alt="PaolaOtamendi" /> </p>
 </h2> 
 
